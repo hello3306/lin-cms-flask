@@ -17,4 +17,4 @@ lin-cms = "==0.1.1a3"
 pytest = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
