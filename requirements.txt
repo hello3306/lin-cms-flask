@@ -13,7 +13,7 @@ Jinja2==2.10
 Lin-CMS==0.1.1
 MarkupSafe==1.1.0
 pipfile==0.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 requests==2.18.4
 six==1.12.0
 SQLAlchemy==1.2.11
